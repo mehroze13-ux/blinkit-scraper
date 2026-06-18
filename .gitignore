@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+output/api_dump/
+*.log
+.DS_Store
