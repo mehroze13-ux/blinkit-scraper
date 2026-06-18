@@ -1,0 +1,33 @@
+{
+  "product_id": "339309",
+  "name": "Mother Dairy Cow Milk",
+  "brand": "Mother Dairy",
+  "category": null,
+  "sub_category": null,
+  "price": 31.0,
+  "mrp": 31.0,
+  "discount_pct": null,
+  "currency": "INR",
+  "size": "500 ml",
+  "unit": null,
+  "pack_size": null,
+  "description": null,
+  "about": null,
+  "ingredients": null,
+  "nutritional_info": null,
+  "allergen_info": null,
+  "storage_instructions": null,
+  "country_of_origin": null,
+  "manufacturer": null,
+  "fssai_license": null,
+  "variants": [],
+  "rating": null,
+  "image_urls": [
+    "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1780632898141-4.png"
+  ],
+  "product_url": "https://blinkit.com/prn/mr.-makhana-pudina-party-flavoured-makhana/prid/385313",
+  "in_stock": true,
+  "delivery_time": null,
+  "scraped_at": "2026-06-17T13:52:17.854568+00:00",
+  "location_pincode": "110001"
+}

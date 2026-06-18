@@ -1,0 +1,178 @@
+{
+  "url": "https://blinkit.com/visibility?latitude=28.6139118&longitude=77.20902029999999",
+  "body": {
+    "success": true,
+    "serviceable": true,
+    "merchants": [
+      {
+        "id": "36778",
+        "chain_id": 1383,
+        "business_types": [
+          "value"
+        ],
+        "lat": 28.6139118,
+        "lng": 77.20902029999999,
+        "distance": 0,
+        "duration": 0,
+        "filters": [
+          {
+            "name": "assortment_tag",
+            "value": [
+              "express"
+            ]
+          }
+        ],
+        "disruption": {
+          "block_checkouts": "",
+          "code": "",
+          "is_disrupted": "",
+          "start_ts": "",
+          "end_ts": "",
+          "disruption_tags": []
+        },
+        "rank": 1,
+        "is_nearby_store": false,
+        "city_id": 1,
+        "city_code": "DL",
+        "city_name": "Delhi",
+        "state_id": 25,
+        "state_name": "NCT of Delhi",
+        "additional_filters": {
+          "assortment_tags": [
+            "express"
+          ],
+          "assortment_filters": [
+            {
+              "type": "express",
+              "filters": {}
+            }
+          ]
+        },
+        "meta": {
+          "aqi": {
+            "value": 75,
+            "category": "MODERATE_AIR_QUALITY"
+          }
+        }
+      },
+      {
+        "id": "34280",
+        "chain_id": 1383,
+        "business_types": [
+          "value"
+        ],
+        "lat": 28.6139118,
+        "lng": 77.20902029999999,
+        "distance": 0,
+        "duration": 0,
+        "filters": [
+          {
+            "name": "assortment_tag",
+            "value": [
+              "longtail"
+            ]
+          }
+        ],
+        "disruption": {
+          "block_checkouts": "",
+          "code": "",
+          "is_disrupted": "",
+          "start_ts": "",
+          "end_ts": "",
+          "disruption_tags": []
+        },
+        "rank": 2,
+        "is_nearby_store": false,
+        "city_id": 1,
+        "city_code": "DL",
+        "city_name": "Delhi",
+        "state_id": 25,
+        "state_name": "NCT of Delhi",
+        "additional_filters": {
+          "assortment_tags": [
+            "longtail"
+          ],
+          "assortment_filters": [
+            {
+              "type": "longtail",
+              "filters": {
+                "time_filters": [
+                  {
+                    "name": "product_id",
+                    "values": [
+                      "633217",
+                      "552600",
+                      "613731",
+                      "613754",
+                      "548442",
+                      "548441",
+                      "600169",
+                      "594885",
+                      "594870",
+                      "623476"
+                    ],
+                    "start_time": "0900",
+                    "end_time": "2100"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "meta": null
+      },
+      {
+        "id": "35940",
+        "chain_id": 1383,
+        "business_types": [
+          "value"
+        ],
+        "lat": 28.6139118,
+        "lng": 77.20902029999999,
+        "distance": 0,
+        "duration": 0,
+        "filters": [
+          {
+            "name": "assortment_tag",
+            "value": [
+              "instant"
+            ]
+          }
+        ],
+        "disruption": {
+          "block_checkouts": "",
+          "code": "",
+          "is_disrupted": "",
+          "start_ts": "",
+          "end_ts": "",
+          "disruption_tags": []
+        },
+        "rank": 3,
+        "is_nearby_store": false,
+        "city_id": 1849,
+        "city_code": "HR",
+        "city_name": "HR-NCR",
+        "state_id": 0,
+        "state_name": "",
+        "additional_filters": {
+          "assortment_tags": [
+            "instant"
+          ],
+          "assortment_filters": [
+            {
+              "type": "instant",
+              "filters": {}
+            }
+          ]
+        },
+        "meta": null
+      }
+    ],
+    "cityCode": "DL",
+    "cityId": 1,
+    "cityName": "Delhi",
+    "stateId": 25,
+    "stateName": "NCT of Delhi",
+    "language": "HIN"
+  }
+}

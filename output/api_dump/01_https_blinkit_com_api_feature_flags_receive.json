@@ -1,0 +1,48 @@
+{
+  "url": "https://blinkit.com/api/feature-flags/receive",
+  "body": {
+    "success": true,
+    "data": {
+      "featureFlags": {
+        "is-web-enhanced-page-load-enabled": true,
+        "is-ssr-prerender-enable-for-bots": false,
+        "is-web-full-screen-location-select-enabled": false,
+        "is-type-to-search-mweb-enabled": true,
+        "is-web-onesupport-enabled": true,
+        "is-web-zpay-enabled": true,
+        "is-web-print-enabled": true,
+        "is_consumer_web_bff_enabled": true,
+        "is-web-jumbo-client-enabled": true,
+        "is-web-plp-bff-enabled": true,
+        "is-web-cart-coupon-enabled": false,
+        "is-web-search-bff-enabled": true,
+        "is-web-zpay-v2-enabled": false,
+        "is-web-bff-order-history-enabled": true,
+        "is-web-bff-crystal-track-order-enabled": true,
+        "is-web-pdp-bff-enabled": true,
+        "show-bill-and-tip-v2-on-web": true,
+        "is-web-dp-tip-enabled": true,
+        "is-web-location-v2-enabled": false,
+        "is-web-new-cart-address": true,
+        "dc-web-enabled": true,
+        "is-web-gyftr-enabled": true,
+        "is-web-v1-order-count-enabled": true,
+        "is-web-desktop-bff-pdp-enabled": true,
+        "is-web-desktop-bff-slp-enabled": true,
+        "is-web-desktop-bff-plp-enabled": true,
+        "is-web-desktop-bff-dc-enabled": true,
+        "is-web-eta-v2-enabled": true,
+        "is-web-location-auto-suggest-enabled": true,
+        "is-web-blinkit-link-enabled": true,
+        "is-web-mobile-pdp-v2-enabled": true,
+        "is-web-paas-async-validation-enabled": true,
+        "is_web_crystal_track_v2_enabled": true,
+        "is-web-pharma-checkouts-enabled": true,
+        "is-web-paas-revamp-enabled": true,
+        "is-web-cart-share-enabled": true
+      },
+      "isNewUser": false,
+      "sessionKey": "17f3ac82-e951-4073-808d-db0d5d0a63e7"
+    }
+  }
+}

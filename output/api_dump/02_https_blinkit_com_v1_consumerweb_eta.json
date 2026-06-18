@@ -1,0 +1,123 @@
+{
+  "url": "https://blinkit.com/v1/consumerweb/eta",
+  "body": {
+    "eta_in_minutes": 13,
+    "title": "Delivery in 13 minutes",
+    "update_eta_action": {
+      "type": "update_eta",
+      "update_eta": {
+        "eta_map_v2": {
+          "34280": {
+            "longtail": {
+              "eta": 30,
+              "asset_id": "1"
+            }
+          },
+          "35940": {
+            "instant": {
+              "eta": 10,
+              "asset_id": "0"
+            }
+          },
+          "36778": {
+            "express": {
+              "eta": 13,
+              "asset_id": "0"
+            },
+            "installation_fan_installation": {
+              "eta": 10,
+              "asset_id": "0"
+            },
+            "large_order": {
+              "eta": 18,
+              "asset_id": "1"
+            },
+            "payment_mode_cash_on_delivery": {
+              "eta": 10,
+              "asset_id": "0"
+            },
+            "pharma_doctor": {
+              "eta": 10,
+              "asset_id": "0"
+            },
+            "pharma_otx": {
+              "eta": 30,
+              "asset_id": "1"
+            },
+            "pharma_pharmacist": {
+              "eta": 10,
+              "asset_id": "0"
+            },
+            "pharma_rx": {
+              "eta": 30,
+              "asset_id": "1"
+            },
+            "pharma_rx_preapproved": {
+              "eta": 30,
+              "asset_id": "1"
+            }
+          }
+        },
+        "asset_map": {
+          "0": {
+            "eta_badge": {
+              "text_data": {
+                "color": {
+                  "type": "black",
+                  "tint": "900"
+                },
+                "font": {
+                  "size": "050",
+                  "weight": "bold"
+                }
+              },
+              "bg_color_data": {
+                "type": "grey",
+                "tint": "100"
+              },
+              "image_data": {
+                "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+              }
+            },
+            "shipment_badge": {
+              "image_data": {
+                "url": "https://cdn.grofers.com/assets/eta-icons/15-mins-filled.png"
+              }
+            }
+          },
+          "1": {
+            "eta_badge": {
+              "text_data": {
+                "color": {
+                  "type": "cider",
+                  "tint": "700"
+                },
+                "font": {
+                  "size": "050",
+                  "weight": "bold"
+                }
+              },
+              "bg_color_data": {
+                "type": "cider",
+                "tint": "100"
+              },
+              "image_data": {
+                "url": "http://cdn.grofers.com/assets/eta-icons/30-mins.png"
+              }
+            },
+            "shipment_badge": {
+              "image_data": {
+                "url": "https://cdn.grofers.com/assets/eta-icons/30-mins-filled.png"
+              }
+            }
+          }
+        },
+        "merchant_info": {
+          "type": "express",
+          "id": "36778",
+          "eta_identifier": "express"
+        }
+      }
+    }
+  }
+}

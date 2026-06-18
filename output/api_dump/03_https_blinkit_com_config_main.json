@@ -1,0 +1,431 @@
+{
+  "url": "https://blinkit.com/config/main",
+  "body": {
+    "success": true,
+    "config": {
+      "brandsList": [
+        "grofers Happy Day",
+        "grofers Happy Home",
+        "grofers Mother's Choice",
+        "g Fresh",
+        "O'range",
+        "Savemore",
+        "24 Mantra",
+        "Aashirvaad",
+        "Act II",
+        "Amul",
+        "Axe",
+        "Bambino",
+        "Best Value",
+        "Bingo",
+        "Bisleri",
+        "Boost",
+        "Bournvita",
+        "Britannia",
+        "Brooke Bond",
+        "Bru",
+        "Cadbury",
+        "Cheetos",
+        "Cinthol",
+        "Closeup",
+        "Coca-Cola",
+        "Colgate",
+        "Dabur",
+        "Danone",
+        "Del Monte",
+        "Dettol",
+        "Dhara",
+        "Dove",
+        "Durex",
+        "English Oven",
+        "Everest",
+        "Fiama Di Wills",
+        "Garnier",
+        "Gatorade",
+        "Gillette",
+        "Glucon-D",
+        "Grocery",
+        "Gowardhan",
+        "Hajmola",
+        "Haldiram's",
+        "Head & Shoulders",
+        "Heinz",
+        "Himalaya",
+        "Horlicks",
+        "India Gate",
+        "Kellogg's",
+        "Kinley",
+        "Kissan",
+        "Knorr",
+        "L'Oreal",
+        "Lay's",
+        "Lijjat",
+        "Limca",
+        "Lipton",
+        "Maggi",
+        "Madhur",
+        "McCain",
+        "MDH",
+        "Minute Maid",
+        "Mirinda",
+        "Mother Dairy",
+        "Mountain Dew",
+        "MTR",
+        "Nescafe",
+        "Nestle",
+        "Nivea",
+        "Nutella",
+        "Oral-B",
+        "Oreo",
+        "Palmolive",
+        "Pantene",
+        "Paper Boat",
+        "Parachute",
+        "Parle",
+        "Patanjali",
+        "Pears",
+        "Pepsi",
+        "Pepsodent",
+        "Pillsbury",
+        "Princeware",
+        "Rajdhani",
+        "Real",
+        "Red Bull",
+        "Safal",
+        "Saffola",
+        "Shakti Bhog",
+        "Smith & Jones",
+        "Sprite",
+        "Stayfree",
+        "Sundrop",
+        "Sunfeast",
+        "Sunsilk",
+        "Taj Mahal",
+        "Tang",
+        "Tata sampann",
+        "Tata tea",
+        "Tetley",
+        "Thums Up",
+        "Tropicana",
+        "Twinings",
+        "Uncle Chipps",
+        "Unibic",
+        "Vaseline",
+        "Veet",
+        "Wagh Bakri",
+        "Wai Wai",
+        "Whisper",
+        "Whole Farm"
+      ],
+      "categoriesList": {
+        "Household Items": "/cn/household-items/cid/18",
+        "Personal Care": "/cn/personal-care/cid/163",
+        "Fruits & Vegetables": "/cn/vegetables-fruits/cid/1487",
+        "Baby Care": "/cn/baby-care/cid/7",
+        "Pet Care": "/cn/pet-care/cid/5",
+        "Breakfast & Dairy": "/cn/breakfast-dairy/cid/14",
+        "Grocery & Staples": "/cn/grocery-staples/cid/16",
+        "Ghee": "/cn/grocery-staples/ghee-vanaspati/cid/16/1158",
+        "Rice": "/cn/grocery-staples/rice-other-grains/cid/16/1161",
+        "Soap": "/cn/personal-care/bath-body/soaps/cid/163/979/696",
+        "Moong Dal": "/cn/grocery-staples/pulses/moong/cid/16/1010/1196",
+        "Cooking Oil": "/cn/grocery-staples/edible-oils/cid/16/917",
+        "Detergent Powders": "/cn/household-needs/laundry-detergents/cid/18/983",
+        "Baby Diapers": "/order-online/baby-diapers-online-at-lowest-prices",
+        "Noodles & Pasta": "/cn/noodles-pasta-instant/pasta-noodles/cid/15/962",
+        "Atta": "/cn/grocery-staples/atta-other-flours/cid/16/916",
+        "Vegetables": "/cn/vegetables-fruits/cid/1487",
+        "Toor Dal": "/cn/grocery-staples/pulses/arhar/cid/16/1010/1195",
+        "Tea": "/order-online/buy-tea-online",
+        "Almonds": "/cn/grocery-staples/dry-fruits-nuts/almonds-cashews/cid/16/1160/1162",
+        "Salt & Sugar": "/cn/grocery-staples/salt-sugar/cid/16/933",
+        "Fruits": "/cn/vegetables-fruits/fruits/cid/1487/1503",
+        "Biscuits & Snacks": "/cn/biscuits-snacks-chocolates/biscuits-cookies/cid/13/935"
+      },
+      "usefulLinks": [
+        {
+          "title": "About Us",
+          "href": "/aboutus",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "title": "Careers",
+          "href": "/careers",
+          "target": "_blank",
+          "rel": "noopener noreferrer nofollow"
+        },
+        {
+          "title": "Company Blog",
+          "href": "/blog",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "title": "Engineering Blog",
+          "href": "https://lambda.grofers.com/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "noAmpify": true
+        },
+        {
+          "title": "Press Kit",
+          "href": "/press",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "title": "Bug Bounty Program",
+          "href": "/bug-bounty",
+          "target": "_blank",
+          "rel": "noopener noreferrer nofollow"
+        },
+        {
+          "title": "Terms",
+          "href": "/terms",
+          "target": "_blank",
+          "rel": "noopener noreferrer nofollow"
+        },
+        {
+          "title": "Privacy",
+          "href": "/privacy",
+          "target": "_blank",
+          "rel": "noopener noreferrer nofollow"
+        },
+        {
+          "title": "FAQ",
+          "href": "/faq",
+          "target": "_blank",
+          "rel": "noopener noreferrer nofollow"
+        },
+        {
+          "title": "Contact Us",
+          "onClickMethodName": "showContactUsModal"
+        },
+        {
+          "title": "Offers",
+          "routerLink": "true",
+          "to": "/offers"
+        },
+        {
+          "title": "grofers Compliance",
+          "href": "https://grofers.com/",
+          "target": "_blank",
+          "rel": "noopener noreferrer nofollow"
+        },
+        {
+          "title": "grofers Market",
+          "href": "/market",
+          "target": "_blank",
+          "rel": "noopener"
+        },
+        {
+          "title": "grofers Distributors",
+          "href": "https://distributors.grofers.com/",
+          "target": "_blank",
+          "rel": "noopener"
+        }
+      ],
+      "subCategoryLinks": [
+        {
+          "title": "Company",
+          "page_list": [
+            {
+              "title": "About",
+              "href": "/aboutus",
+              "target": "_blank",
+              "rel": "noopener noreferrer"
+            },
+            {
+              "title": "Careers",
+              "href": "/careers",
+              "target": "_blank",
+              "rel": "noopener noreferrer nofollow"
+            },
+            {
+              "title": "Blog",
+              "href": "/blog",
+              "target": "_blank",
+              "rel": "noopener noreferrer"
+            },
+            {
+              "title": "Press",
+              "href": "/press",
+              "target": "_blank",
+              "rel": "noopener noreferrer"
+            },
+            {
+              "title": "Lead",
+              "href": "/leadership",
+              "target": "_blank",
+              "rel": "noopener noreferrer"
+            },
+            {
+              "title": "Value",
+              "href": "/values",
+              "target": "_blank",
+              "rel": "noopener noreferrer"
+            }
+          ]
+        },
+        {
+          "title": "For Consumers",
+          "page_list": [
+            {
+              "title": "Privacy",
+              "href": "/privacy",
+              "target": "_blank",
+              "rel": "noopener noreferrer nofollow"
+            },
+            {
+              "title": "Terms",
+              "href": "/terms",
+              "target": "_blank",
+              "rel": "noopener noreferrer nofollow"
+            },
+            {
+              "title": "FAQs",
+              "href": "/faq",
+              "target": "_blank",
+              "rel": "noopener noreferrer nofollow"
+            },
+            {
+              "title": "Security",
+              "href": "/security",
+              "target": "_blank",
+              "rel": "noopener noreferrer nofollow"
+            },
+            {
+              "title": "Mobile",
+              "href": "/download",
+              "target": "_blank",
+              "rel": "noopener noreferrer nofollow"
+            },
+            {
+              "title": "Contact",
+              "href": "/contactUs",
+              "target": "_blank",
+              "rel": "noopener noreferrer nofollow"
+            }
+          ]
+        },
+        {
+          "title": "For Partners",
+          "page_list": [
+            {
+              "title": "Partner",
+              "href": "/partner",
+              "target": "_blank",
+              "rel": "noopener noreferrer nofollow"
+            },
+            {
+              "title": "Franchise",
+              "href": "/franchise",
+              "target": "_blank",
+              "rel": "noopener noreferrer nofollow"
+            },
+            {
+              "title": "Seller",
+              "href": "/seller",
+              "target": "_blank",
+              "rel": "noopener noreferrer nofollow"
+            },
+            {
+              "title": "Warehouse",
+              "href": "/warehouse-partner",
+              "target": "_blank",
+              "rel": "noopener noreferrer nofollow"
+            },
+            {
+              "title": "Deliver",
+              "href": "/delivery",
+              "target": "_blank",
+              "rel": "noopener noreferrer nofollow"
+            },
+            {
+              "title": "Resources",
+              "href": "/resources",
+              "target": "_blank",
+              "rel": "noopener noreferrer nofollow"
+            }
+          ]
+        }
+      ],
+      "cities": [
+        "Ahmedabad",
+        "Bengaluru",
+        "Chandigarh",
+        "Chennai",
+        "Delhi",
+        "Faridabad",
+        "Gurgaon",
+        "Haridwar",
+        "HR-NCR",
+        "Hyderabad",
+        "Jaipur",
+        "Jalandhar",
+        "Kanpur",
+        "Kolkata",
+        "Lucknow",
+        "Ludhiana",
+        "Meerut",
+        "Mohali",
+        "Mumbai",
+        "Panchkula",
+        "Pune",
+        "UP-NCR",
+        "Vadodara",
+        "Zirakpur"
+      ],
+      "blockedCollectionIds": [
+        "5b79910b55105e0ec8f1e591"
+      ],
+      "sideNavCustomLinks": [
+        {
+          "title": "FAQ",
+          "link": "/faq",
+          "anchor": true,
+          "classes": "side-nav__item-login"
+        },
+        {
+          "title": "About us",
+          "link": "/aboutus",
+          "anchor": true,
+          "classes": "side-nav__item-addresses"
+        },
+        {
+          "title": "Terms and Conditions",
+          "link": "/terms",
+          "anchor": true,
+          "classes": "side-nav__item-orders"
+        },
+        {
+          "title": "Blog",
+          "link": "/blog",
+          "anchor": true,
+          "classes": "side-nav__item-cart"
+        }
+      ],
+      "communityShopping": {
+        "communitiesShopped": [
+          "1",
+          "2",
+          "3"
+        ],
+        "communitiesWithPreviousBenefits": [
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      "freeFastDelivery": {
+        "memberCount": {
+          "1": 347,
+          "2": 639
+        }
+      },
+      "showVerloopChat": false,
+      "showAppRefresh": true
+    }
+  }
+}

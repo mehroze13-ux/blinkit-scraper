@@ -1,0 +1,140 @@
+{
+  "url": "https://blinkit.com/v2/services/secondary-data/?filter=new_offer,show_product_group_sharing,is_new_user,cart_ab_test_variant,city_id,sku_auto_add,cart_banner_image,show_referral_login,product_sku_limit&offers_last_visit_ts=0",
+  "body": {
+    "additional_charges_config": null,
+    "analytics_properties": {
+      "merchant_id": 36778,
+      "merchant_name": null,
+      "city_id": 1,
+      "city_name": "Delhi",
+      "chain_id": 1383,
+      "min_order": null,
+      "delivery_type": null,
+      "services": {
+        "merchants": [
+          {
+            "id": "36778",
+            "type": "express"
+          },
+          {
+            "id": "34280",
+            "type": "longtail"
+          },
+          {
+            "id": "35940",
+            "type": "instant"
+          }
+        ]
+      },
+      "segment_type": null,
+      "user_type": null,
+      "lifetime_orders": null,
+      "monthly_orders": null,
+      "traits_middleware": null,
+      "user_experiment_buckets": [
+        "RANDOM#bucket1",
+        "INCREASING_ROLLOUT#bucket2",
+        "DECREASING_ROLLOUT#bucket1"
+      ],
+      "latitude": 28.6139118,
+      "longitude": 77.20902029999999,
+      "is_restricted_mode_enabled": false
+    },
+    "referral_benefits_data": null,
+    "splash_ads": [],
+    "prefetch_media": [
+      {
+        "media_type": "image",
+        "storage_type": "app",
+        "urls": [
+          "https://cdn.grofers.com/assets/ui/ofse_happy_happy_thankyou_v2.png?disable_resizing=true",
+          "https://cdn.grofers.com/layout-engine/v2/2024-03/1711617518471-nqr_bottomsheet_1.png?disable_resizing=true"
+        ]
+      },
+      {
+        "media_type": "video",
+        "storage_type": "app",
+        "urls": []
+      },
+      {
+        "media_type": "lottie",
+        "storage_type": "app",
+        "urls": []
+      },
+      {
+        "media_type": "web_resource",
+        "storage_type": "app",
+        "urls": []
+      }
+    ],
+    "show_product_recommendations": true,
+    "trending_searches_list": [],
+    "user_log_properties": {
+      "is_employee": false
+    },
+    "add_to_cart_animation_config": {
+      "enabled": true,
+      "max_counter": 3
+    },
+    "live_activity_ads": [],
+    "loading_overlay_config": [
+      {
+        "variants": [
+          {
+            "image": {
+              "animation": {
+                "url": "https://cdn.grofers.com/layout-engine/v2/2025-03/circularLoader3.json",
+                "repeat": true,
+                "height": "100",
+                "aspect_ratio": 1
+              }
+            },
+            "title": {
+              "text": "Everything you need, delivered at your doorstep"
+            }
+          }
+        ],
+        "selection_type": "shuffle",
+        "schedule": {
+          "offset_in_mins": 0,
+          "duration_in_mins": 2041920,
+          "recurrence_expr": "DTSTART;TZID=Asia/Kolkata:20260112T075928"
+        }
+      }
+    ],
+    "sbc_auto_renewal_data": {
+      "text": "Membership will auto renew at ₹%s after %s for card payments.",
+      "tooltip": {
+        "heading": "Auto - renewal details",
+        "items": [
+          {
+            "key": "Membership Plan (%s)",
+            "value": "₹%s"
+          }
+        ]
+      }
+    },
+    "cart_sbc_details": null,
+    "sbc_free_delivery_details": {
+      "free_delivery_count": 0,
+      "minimum_order_value": 0,
+      "order_limit": 30
+    },
+    "template_version": 0,
+    "profile_image_banner": {
+      "url": "https://cdn.grofers.com/layout-engine/v2/2025-04/Birthday_Light-(1)/Birthday_Light-(1)_light.png",
+      "aspect_ratio": 6,
+      "click_action": {
+        "open_bottom_sheet": {
+          "data": null,
+          "height": {},
+          "page_identifier": "birthday_input_bottom_sheet"
+        },
+        "type": "open_bottom_sheet"
+      },
+      "accessibility_text": {
+        "text": "Birthday Image Banner"
+      }
+    }
+  }
+}
